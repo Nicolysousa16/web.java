@@ -1,0 +1,26 @@
+import java.util.List;
+
+
+public class Animal {
+    public String nome;
+    public int idade;
+    public String sexo;
+
+    public Cliente dono;
+    public Especie especie;
+
+    private List<Consulta> consultas;
+    private List<Tratamento> tratamento;
+    private List<Exame> exames;
+
+    public Animal() {
+
+    }
+    public void cadAnimal (){
+
+    }
+    public void atualizarAnimal (){
+
+    }
+
+}
