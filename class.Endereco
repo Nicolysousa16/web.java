@@ -1,0 +1,10 @@
+public class Endereco {
+    public String bairro;
+    public String rua;
+    public Integer numero;
+    public Integer cep;
+
+    public Endereco(){
+
+    }
+}
