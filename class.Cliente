@@ -1,0 +1,33 @@
+import java.util.List;
+
+
+public class Cliente {
+    public String nome;
+    public int cep;
+    public int telefone;
+    public String email;
+
+
+    public Endereco endereco;
+
+
+    private List<Animal> animal;
+
+
+    public Cliente(){
+
+    }
+
+
+    //MÉTODOS
+    public void cadastrarCliente(){
+
+    }
+    public void atualizarDados(){
+
+    }
+    public void removerCliente(){
+
+    }
+}
+
