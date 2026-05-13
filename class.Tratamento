@@ -1,0 +1,16 @@
+mport java.time.LocalDate;
+import java.util.List;
+
+
+public class Tratamento {
+    public LocalDate data;
+    public LocalDate termino;
+    public String diagnostico;
+    public List<Exame> exames;
+    public List<Consulta> consultas;
+
+    public Tratamento(){
+
+    }
+
+}
