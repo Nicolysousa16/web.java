@@ -1,0 +1,9 @@
+public class Exame {
+    public String exame;
+    public String descricao;
+
+    public Exame(){
+
+    }
+
+}
