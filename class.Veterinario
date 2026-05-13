@@ -1,0 +1,16 @@
+import java.util.List;
+
+
+public class Veterinario {
+    public String nome;
+    public String telefone;
+    public String email;
+    public Endereco endereco;
+    public List<Consulta> consulta;
+    public List<Tratamento> tratamento;
+
+    public Veterinario () {
+
+    }
+
+}
